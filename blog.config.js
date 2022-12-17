@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: 'dajia2048', // 作者
   BIO: '普通大假', // 作者简介
-  LINK: 'https://w-liveinlife.com/', // 网站地址
+  LINK: 'https://www.dajia2048.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'wongxz2048@gmail.com', // 邮箱
