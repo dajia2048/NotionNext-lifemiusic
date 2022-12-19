@@ -1,3 +1,5 @@
+import { COMMENT_WALINE_RECENT } from "@/blog.config"
+
 const CONFIG_NEXT = {
 
   HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
@@ -32,7 +34,9 @@ const CONFIG_NEXT = {
 
   ARTICLE_SHARE: false, // 文章分享功能
   ARTICLE_RELATE_POSTS: true, // 相关文章推荐
-  ARTICLE_COPYRIGHT: true // 文章版权声明
+  ARTICLE_COPYRIGHT: true, // 文章版权声明
+
+  COMMENT_WALINE_RECENT: true // 显示最新评论
 
 }
 

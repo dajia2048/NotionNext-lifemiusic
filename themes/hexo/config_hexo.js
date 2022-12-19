@@ -23,6 +23,8 @@ const CONFIG_HEXO = {
   WIDGET_TO_TOP: true,
   WIDGET_TO_COMMENT: true, // 跳到评论区
   WIDGET_DARK_MODE: true, // 夜间模式
-  WIDGET_TOC: true // 移动端悬浮目录
+  WIDGET_TOC: true, // 移动端悬浮目录
+
+  COMMENT_WALINE_RECENT: true // 显示最新评论
 }
 export default CONFIG_HEXO
