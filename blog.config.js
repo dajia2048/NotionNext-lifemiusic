@@ -11,9 +11,9 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: '大假', // 作者
-  BIO: '数据分析赶路人，徒步选手，INTP，水瓶座，播客迷&乐迷，读书老运动员', // 作者简介
+  BIO: '热爱音乐，分享音乐, // 作者简介
   LINK: 'https://www.dajia2048.com', // 网站地址
-  KEYWORDS: '数分, 徒步，音乐', // 网站关键词 英文逗号隔开
+  KEYWORDS: '音乐', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'wongxz2048@gmail.com', // 邮箱
   CONTACT_WEIBO: '', // 你的微博个人主页
