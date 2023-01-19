@@ -11,7 +11,7 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: '大假', // 作者
-  BIO: '热爱音乐，分享音乐, // 作者简介
+  BIO: '热爱音乐，分享音乐', // 作者简介
   LINK: 'https://www.dajia2048.com', // 网站地址
   KEYWORDS: '音乐', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
